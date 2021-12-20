@@ -1,11 +1,12 @@
 import React from "react";
+import popcorn from '../images/popcorn.png'
 
 function SearchBar(props) {
   return (
     <div>
     
     <header>
-    
+    <img className="popcorn" src={popcorn}></img>
     <h1>Movies</h1>
       <input
         className="search-bar"
