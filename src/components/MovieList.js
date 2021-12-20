@@ -27,7 +27,7 @@ function MovieList(){
         <div>
         <div>
 
-        <h1>Movies</h1> 
+        {/* <h1>Movies</h1>  */}
         <SearchBar searchValue={searchValue} setSearchValue={setSearchValue} />
         <Movie movies={movies}/>
         </div>
