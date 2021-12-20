@@ -1,21 +1,46 @@
+body{
+  background-color: #22254b;
+  margin: 0;
+  color:aliceblue;
+}
 
-.card {
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width:40%;
-  padding-top: 20px;
+
+.movie-container{
+  margin:2rem;
+  padding-left: 20px;
+ 
+}
+
+
+.movie img{
+  max-width: 100%;
+  
+  
   
 }
 
-/* On mouse-over, add a deeper shadow */
-.card:hover {
+.movie-content{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem;
+  width: 300px;
+  background-color: #373b69;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.movie-content:hover{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
+.movie-info{
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-evenly;
+  padding:1rem;
 }
 
+.movie-info h3{
+  margin: 0;
+}
 
