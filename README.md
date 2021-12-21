@@ -8,6 +8,7 @@ It is a pretty simple project. So for future plans I would like to include:
 4. Add a favorite movies section.
 
 Used the OMDB API for the movies.
+![image](https://i.imgur.com/zVJMntW.jpg)
 
 
 
