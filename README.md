@@ -1,3 +1,18 @@
+#Movie App
+
+A simple Movie app that allows the user to search for movies that they have seen before or new movies they are looking to view in the future.
+It is a pretty simple project. So for future plans I would like to include:
+1. Popular, Upcoming, and now playing movies.
+2. Filter option where the use can filter the movies by genre, actors, best rated
+3. Allow the users to create a watchlist.
+4. Add a favorite movies section.
+
+Used the OMDB API for the movies.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
