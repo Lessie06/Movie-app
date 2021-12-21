@@ -7,7 +7,7 @@ It is a pretty simple project. So for future plans I would like to include:
 3. Allow the users to create a watchlist.
 4. Add a favorite movies section.
 
-Used the OMDB API for the movies.
+Used the [OMDB API](http://www.omdbapi.com/) for the movies.
 ![image](https://i.imgur.com/zVJMntW.jpg)
 
 
