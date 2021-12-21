@@ -1,4 +1,4 @@
-#Movie App
+# Movie-app
 
 A simple Movie app that allows the user to search for movies that they have seen before or new movies they are looking to view in the future.
 It is a pretty simple project. So for future plans I would like to include:
@@ -84,4 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Movie-app
+
